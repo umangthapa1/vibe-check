@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pure-black: #000000;
+  --pure-white: #FFFFFF;
+  --slate-900: #0f172a;
+}
+
+body {
+  background-color: var(--pure-white);
+  color: var(--pure-black);
+}
+
+/* Timeline vertical line - Git-log aesthetic */
+.timeline-axis {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1px;
+  height: 100%;
+  background-color: var(--slate-900);
+}
+
+@media (max-width: 767px) {
+  .timeline-axis {
+    left: 20px;
+  }
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom selection color for monochrome aesthetic */
+::selection {
+  background-color: var(--pure-black);
+  color: var(--pure-white);
+}
+
+/* Focus styles for accessibility */
+:focus-visible {
+  outline: 2px solid var(--slate-900);
+  outline-offset: 2px;
+}

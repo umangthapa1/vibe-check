@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "name": "Alex Vercel",
+    "title": "Senior Frontend Engineer",
+    "status": "available",
+    "statusMessage": "Open for collaborations"
+  },
+  "entries": [
+    {
+      "id": "entry-001",
+      "date": "2026-03",
+      "title": "Launched VibeTimeline",
+      "description": "Built a premium portfolio timeline component blending Git log aesthetics with Scandi minimalism. Featured on Awwwards.",
+      "category": "Project",
+      "icon": "rocket",
+      "highlight": true
+    },
+    {
+      "id": "entry-002",
+      "date": "2026-01",
+      "title": "Joined Vercel Design Team",
+      "description": "Leading frontend architecture for the next generation of developer tools. Shipping zero-runtime CSS solutions.",
+      "category": "Work",
+      "icon": "briefcase",
+      "highlight": false
+    },
+    {
+      "id": "entry-003",
+      "date": "2025-11",
+      "title": "Open Source Milestone: 10k Stars",
+      "description": "Our UI component library reached 10,000 GitHub stars. Grateful to the incredible community of contributors.",
+      "category": "Project",
+      "icon": "star",
+      "highlight": false
+    },
+    {
+      "id": "entry-004",
+      "date": "2025-09",
+      "title": "Spoke at Next.js Conf",
+      "description": "Presented 'The Art of Invisible Design' to 5,000+ developers. Exploring the intersection of performance and aesthetics.",
+      "category": "Learning",
+      "icon": "mic",
+      "highlight": false
+    },
+    {
+      "id": "entry-005",
+      "date": "2025-06",
+      "title": "Shipped Design System v3",
+      "description": "Completely rewrote our design system with React Server Components. 40% reduction in bundle size achieved.",
+      "category": "Project",
+      "icon": "palette",
+      "highlight": false
+    },
+    {
+      "id": "entry-006",
+      "date": "2025-03",
+      "title": "Relocated to Stockholm",
+      "description": "Made the move to Sweden for a fresh perspective. Embracing fika, lagom, and the endless summer sun.",
+      "category": "Life",
+      "icon": "mapPin",
+      "highlight": false
+    },
+    {
+      "id": "entry-007",
+      "date": "2024-12",
+      "title": "Published TypeScript Deep Dive",
+      "description": "Released a comprehensive course on advanced TypeScript patterns. Over 15,000 developers enrolled in the first month.",
+      "category": "Learning",
+      "icon": "bookOpen",
+      "highlight": false
+    },
+    {
+      "id": "entry-008",
+      "date": "2024-08",
+      "title": "Founded Studio Null",
+      "description": "Started a boutique design studio focused on minimalist digital experiences for premium clients worldwide.",
+      "category": "Work",
+      "icon": "building",
+      "highlight": false
+    }
+  ]
+}
