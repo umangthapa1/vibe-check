@@ -37,7 +37,53 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 04. Configuration
+## 04. Demo
+
+### Timeline View
+
+```
+Umang Thapa                              🟢 Open for collaborations  [Copy my vibe.json]
+Web Developer & Linux Enthusiast
+
+2026-03    ●    [Project]  Vibe Check Engine
+                    Architected and released a high-end, data-driven portfolio...
+
+2026-02    ●    [Learning]  ZimaOS Home Lab
+                    Deployed a private cloud and media server environment...
+
+2026-01    ●    [Work]  Grade XI IT Exhibition
+                    Developed and presented an AI Voice Assistant...
+
+← git log --all --decorate --oneline →
+```
+
+### Admin Panel
+
+```
+┌─────────────────────────────────────────────────────┐
+│  ⚙️ Vibe Config Editor          [Load] [Save] [Download] │
+├─────────────────────────────────────────────────────┤
+│  [Profile]  [Timeline Entries (8)]                 │
+│                                                     │
+│  Name:      [Umang Thapa                          ]│
+│  Title:     [Web Developer & Linux Enthusiast     ]│
+│  Status:    [available                          ]│
+│  Message:   [Building in public from Nepal       ]│
+└─────────────────────────────────────────────────────┘
+```
+
+### Features
+
+| Feature | Description |
+|---------|-------------|
+| **Git-Log Aesthetic** | Vertical timeline with nodes and connecting lines |
+| **Live Status** | Pulsing green dot for availability |
+| **One-Click Copy** | Copy entire vibe.json to clipboard |
+| **Image Support** | Add images to any timeline entry |
+| **Auto-Save** | Changes save automatically to vibe.json |
+| **Responsive** | Works on mobile and desktop |
+
+### Configuration
 
 You are the architect. Control your entire portfolio from a single source of truth in `public/vibe.json`, or use the built-in admin editor.
 
