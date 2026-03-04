@@ -41,11 +41,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Timeline View
 
-![Timeline](images/Main_UI_Timeline.png)
+![Timeline](public/images/Main_UI⁄Timeline.png)
 
 ### Admin Panel
 
-![Admin Panel](images/Admin_panel.png)
+![Admin Panel](public/images/Admin_panel.png)
 
 ### Features
 
