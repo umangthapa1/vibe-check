@@ -41,37 +41,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Timeline View
 
-![Timeline Preview](https://via.placeholder.com/800x400?text=Timeline+Preview)
-
-```
-Umang Thapa                              🟢 Open for collaborations  [Copy my vibe.json]
-Web Developer & Linux Enthusiast
-
-2026-03    ●    [Project]  Vibe Check Engine
-                    Architected and released a high-end, data-driven portfolio...
-
-2026-02    ●    [Learning]  ZimaOS Home Lab
-                    Deployed a private cloud and media server environment...
-
-← git log --all --decorate --oneline →
-```
+![Timeline](images/Main_UI_Timeline.png)
 
 ### Admin Panel
 
-![Admin Preview](https://via.placeholder.com/800x400?text=Admin+Panel+Preview)
-
-```
-┌─────────────────────────────────────────────────────┐
-│  ⚙️ Vibe Config Editor          [Load] [Save] [Download] │
-├─────────────────────────────────────────────────────┤
-│  [Profile]  [Timeline Entries (8)]                 │
-│                                                     │
-│  Name:      [Umang Thapa                          ]│
-│  Title:     [Web Developer & Linux Enthusiast     ]│
-└─────────────────────────────────────────────────────┘
-```
-
-> 📸 **To add real screenshots:** Run the app, take screenshots, and save them to `docs/screenshots/`
+![Admin Panel](images/Admin_panel.png)
 
 ### Features
 
