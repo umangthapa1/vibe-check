@@ -21,7 +21,10 @@ export type VibeIcon =
   | "code"
   | "coffee"
   | "heart"
-  | "zap";
+  | "zap"
+  | "server"
+  | "terminal"
+  | "cpu";
 
 // Status types for availability indicator
 export type VibeStatus = "available" | "busy" | "unavailable";

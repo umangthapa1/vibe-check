@@ -16,6 +16,9 @@ import {
   Coffee,
   Heart,
   Zap,
+  Server,
+  Terminal,
+  Cpu,
 } from "lucide-react";
 
 // Icon mapping
@@ -32,6 +35,9 @@ const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
   coffee: Coffee,
   heart: Heart,
   zap: Zap,
+  server: Server,
+  terminal: Terminal,
+  cpu: Cpu,
 };
 
 interface TimelineEntryProps {

@@ -5,7 +5,7 @@ import { VibeConfig, VibeCategory, VibeEntry, VibeStatus } from "@/types/vibe";
 
 const CATEGORIES: VibeCategory[] = ["Project", "Work", "Life", "Learning"];
 const STATUSES: VibeStatus[] = ["available", "busy", "unavailable"];
-const ICONS = ["rocket", "briefcase", "star", "mic", "palette", "mapPin", "bookOpen", "building", "code", "coffee", "heart", "zap"];
+const ICONS = ["rocket", "briefcase", "star", "mic", "palette", "mapPin", "bookOpen", "building", "code", "coffee", "heart", "zap", "server", "terminal", "cpu"];
 
 // Default template
 const defaultConfig: VibeConfig = {
