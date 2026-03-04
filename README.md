@@ -37,7 +37,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 04. Demo
+## 04. Live Demo
+
+🔗 **Live Website:** https://vibe-check-84g07wo98-umangs-projects-c9068f52.vercel.app
+
+---
+
+## 05. Data Structure
 
 ### Timeline View
 
@@ -103,7 +109,7 @@ Edit `public/vibe.json` directly:
 }
 ```
 
-### Configuration Schema
+### Data Structure
 
 | Field | Type | Description |
 |-------|------|-------------|
@@ -121,7 +127,7 @@ Edit `public/vibe.json` directly:
 
 ---
 
-## 05. Technical Stack
+## 07. Technical Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -145,7 +151,7 @@ Edit `public/vibe.json` directly:
 
 ---
 
-## 06. Directory Structure
+## 08. Directory Structure
 
 ```
 src/
@@ -170,7 +176,7 @@ src/
 
 ---
 
-## 07. How It Works
+## 09. How It Works
 
 ### Data Flow
 1. `public/vibe.json` is imported directly in [`src/app/page.tsx`](src/app/page.tsx)
