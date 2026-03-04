@@ -41,6 +41,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Timeline View
 
+![Timeline Preview](https://via.placeholder.com/800x400?text=Timeline+Preview)
+
 ```
 Umang Thapa                              🟢 Open for collaborations  [Copy my vibe.json]
 Web Developer & Linux Enthusiast
@@ -51,13 +53,12 @@ Web Developer & Linux Enthusiast
 2026-02    ●    [Learning]  ZimaOS Home Lab
                     Deployed a private cloud and media server environment...
 
-2026-01    ●    [Work]  Grade XI IT Exhibition
-                    Developed and presented an AI Voice Assistant...
-
 ← git log --all --decorate --oneline →
 ```
 
 ### Admin Panel
+
+![Admin Preview](https://via.placeholder.com/800x400?text=Admin+Panel+Preview)
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -67,10 +68,10 @@ Web Developer & Linux Enthusiast
 │                                                     │
 │  Name:      [Umang Thapa                          ]│
 │  Title:     [Web Developer & Linux Enthusiast     ]│
-│  Status:    [available                          ]│
-│  Message:   [Building in public from Nepal       ]│
 └─────────────────────────────────────────────────────┘
 ```
+
+> 📸 **To add real screenshots:** Run the app, take screenshots, and save them to `docs/screenshots/`
 
 ### Features
 
