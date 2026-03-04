@@ -1,76 +1,9 @@
 {
   "meta": {
-    "name": "Umang Thapa",
-    "title": "Web Developer & Linux Enthusiast",
+    "name": "",
+    "title": "",
     "status": "available",
-    "statusMessage": "Building in public from Nepal"
+    "statusMessage": "Open for collaborations"
   },
-  "entries": [
-    {
-      "id": "entry-001",
-      "date": "2026-03",
-      "title": "Vibe Check Engine",
-      "description": "Architected and released a high-end, data-driven portfolio system for minimalists. Built with Next.js 15 and React 19.",
-      "category": "Project",
-      "icon": "rocket",
-      "highlight": true
-    },
-    {
-      "id": "entry-002",
-      "date": "2026-02",
-      "title": "ZimaOS Home Lab",
-      "description": "Deployed a private cloud and media server environment using ZimaOS and CasaOS on repurposed hardware.",
-      "category": "Learning",
-      "icon": "server"
-    },
-    {
-      "id": "entry-003",
-      "date": "2026-02",
-      "title": "Gym Streak Tracker",
-      "description": "Published a dedicated tracking system for weight training and body recomposition. Focused on 6-day split optimization.",
-      "category": "Project",
-      "icon": "zap"
-    },
-    {
-      "id": "entry-004",
-      "date": "2026-01",
-      "title": "Grade XI IT Exhibition",
-      "description": "Developed and presented an AI Voice Assistant (Jarvis UI) for my college Science and IT exhibition in Nepal.",
-      "category": "Work",
-      "icon": "cpu",
-      "highlight": true
-    },
-    {
-      "id": "entry-005",
-      "date": "2025-12",
-      "title": "EndeavourOS / Arch Rice",
-      "description": "Designed a custom KDE Plasma environment with a focus on monochrome aesthetics and terminal-centric workflows.",
-      "category": "Project",
-      "icon": "terminal"
-    },
-    {
-      "id": "entry-006",
-      "date": "2025-11",
-      "title": "C Programming Lab Reports",
-      "description": "Documented advanced control statements and logic implementations as part of Grade XI academic curriculum.",
-      "category": "Learning",
-      "icon": "code"
-    },
-    {
-      "id": "entry-007",
-      "date": "2025-10",
-      "title": "CurseForge Author Program",
-      "description": "Joined the Minecraft developer rewards program as a texture pack artist and open-source contributor.",
-      "category": "Work",
-      "icon": "palette"
-    },
-    {
-      "id": "entry-008",
-      "date": "2025-09",
-      "title": "The Path of Ikigai",
-      "description": "Began integrating the philosophy of purpose and minimalist living into my development workflow and daily habits.",
-      "category": "Life",
-      "icon": "bookOpen"
-    }
-  ]
+  "entries": []
 }

@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { VibeConfig, VibeCategory, VibeEntry, VibeStatus } from "@/types/vibe";
+import vibeData from "../../../public/vibe.json";
 
 const CATEGORIES: VibeCategory[] = ["Project", "Work", "Life", "Learning"];
 const STATUSES: VibeStatus[] = ["available", "busy", "unavailable"];
@@ -19,7 +20,7 @@ const defaultConfig: VibeConfig = {
 };
 
 export default function AdminPage() {
-  const [config, setConfig] = useState<VibeConfig>(defaultConfig);
+  const [config, setConfig] = useState<VibeConfig>(vibeData as VibeConfig);
   const [activeTab, setActiveTab] = useState<"meta" | "entries">("meta");
   const [editingEntry, setEditingEntry] = useState<VibeEntry | null>(null);
   // Auto-save on every change
