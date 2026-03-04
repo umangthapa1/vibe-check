@@ -37,6 +37,7 @@ export interface VibeEntry {
   description: string;
   category: VibeCategory;
   icon?: VibeIcon;
+  image?: string; // URL to an image
   highlight?: boolean;
 }
 

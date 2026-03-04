@@ -136,6 +136,15 @@ export function TimelineEntry({ entry, index, isFirst, isLast }: TimelineEntryPr
             {entry.description}
           </p>
           
+          {/* Image */}
+          {entry.image && (
+            <img 
+              src={entry.image} 
+              alt={entry.title}
+              className="w-full max-w-md h-48 object-cover rounded-lg mb-3 border border-slate-200"
+            />
+          )}
+          
           {/* Category badge */}
           <CategoryBadge category={entry.category} />
         </div>

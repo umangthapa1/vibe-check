@@ -95,6 +95,7 @@ Edit `public/vibe.json` directly:
 | `entries[].description` | string | Detailed description |
 | `entries[].category` | `"Project"` \| `"Work"` \| `"Life"` \| `"Learning"` | Category type |
 | `entries[].icon` | string | Lucide icon name (rocket, briefcase, star, mic, palette, etc.) |
+| `entries[].image` | string | Image URL to display |
 | `entries[].highlight` | boolean | Whether to emphasize this entry |
 
 ---

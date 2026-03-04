@@ -92,6 +92,7 @@ export default function AdminPage() {
       description: "Description here",
       category: "Project",
       icon: "rocket",
+      image: "",
       highlight: false,
     };
     setEditingEntry(newEntry);
@@ -282,6 +283,16 @@ export default function AdminPage() {
                             <option key={i} value={i}>{i}</option>
                           ))}
                         </select>
+                      </div>
+                      <div>
+                        <label className="block text-sm font-medium mb-1">Image URL</label>
+                        <input
+                          type="text"
+                          value={editingEntry.image || ""}
+                          onChange={(e) => setEditingEntry({ ...editingEntry, image: e.target.value })}
+                          className="w-full p-2 border rounded"
+                          placeholder="https://example.com/image.jpg"
+                        />
                       </div>
                       <div className="flex items-center gap-2 pt-6">
                         <input
