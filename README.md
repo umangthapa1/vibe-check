@@ -1,14 +1,14 @@
-# ◈ Vibe Check
+# ◈ Gitfolio
 
 **An architectural, data-driven portfolio engine for the minimalist developer.** Built with **Next.js 15**, **React 19**, and **Framer Motion**.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fumangthapa1%2Fvibe-check)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fumangthapa1%2Fgitfolio)
 
 ---
 
 ## 01. Philosophy
 
-Standard portfolios are cluttered. **Vibe Check** treats your career, projects, and personal growth like a surgical Git-log history. It separates your **Life Data** (`vibe.json`) from the **Interface**, allowing you to maintain a high-end digital presence with zero design overhead.
+Standard portfolios are cluttered. **Gitfolio** treats your career, projects, and personal growth like a surgical Git-log history. It separates your **Life Data** (`vibe.json`) from the **Interface**, allowing you to maintain a high-end digital presence with zero design overhead.
 
 ## 02. Core Aura
 
@@ -23,8 +23,8 @@ Standard portfolios are cluttered. **Vibe Check** treats your career, projects, 
 
 ```bash
 # Clone the architecture
-git clone https://github.com/umangthapa1/vibe-check.git
-cd vibe-check
+git clone https://github.com/umangthapa1/gitfolio.git
+cd gitfolio
 
 # Install the ecosystem
 npm install
